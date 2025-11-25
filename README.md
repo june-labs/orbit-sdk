@@ -1,4 +1,3 @@
-```
 # Orbit SDK 🪐
 
 ![NPM Version](https://img.shields.io/npm/v/@junelabs/orbit-sdk?style=flat-square&color=3b82f6&label=release)
